@@ -22,3 +22,4 @@ test_not_delete_pet:404 bekler.
 ## Test Sonucu:
 ![image](https://github.com/user-attachments/assets/b639e774-9be8-4041-851e-2f11d2c1c250)
 
+Github Action yapısı kurulmuştur.
